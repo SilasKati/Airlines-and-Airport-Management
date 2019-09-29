@@ -3,6 +3,6 @@ Airlines and airport management system is a database project implemented in Orac
   
 I have also created a very basic front-end design where you can view, insert and modify the data from the webpages. 
   
-Every folder is named accourdingly for your convenience.  
+Every folder is named accordingly for your convenience.  
   
 The project report file describes everything in detail.  
